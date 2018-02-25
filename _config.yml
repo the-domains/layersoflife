@@ -1,0 +1,82 @@
+name: Artist Page
+analytics:
+  google: UA-31484906-1
+purpose:
+  - type: external
+    url: 'http://thegrid.ai/teacher-page'
+    label: Professional
+  - type: external
+    label: 138 Exposed
+    url: 'http://138.exposed'
+github: true
+description: BlankArt Collection
+author:
+  name: PB
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83666f3e-cb28-4812-9654-e7995b0cd5f3.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/83666f3e-cb28-4812-9654-e7995b0cd5f3.jpg
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      app_links: []
+      related: []
+      description: ''
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - type: external
+    name: 138 The Campaign
+    url: 'https://138.exposed'
+  - type: external
+    name: 138 Manual
+    url: 'https://b318k.tumblr.com'
+layout_spectrum: 0.9224855654631363
+color:
+  lightness: 0.8056927678069229
+  brandColors:
+    - '#E7E7E7'
+    - '#0D0D0D'
+    - '#989898'
+    - '#6D6D6D'
+    - '#EB7E73'
+  saturation: 0.197556986773737
+  brandStrength: 0.41346580302656283
+  rhythmicContrast: 0.04538456889957486
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ade943b-d964-46fa-862d-c65f0f343c30.png
+content_rating:
+  adult: false
+typography_spectrum: 0.468349572439761
+coverPrefs:
+  filter: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5c52f500-a758-4076-a669-35d2908e5fa1.png
+title: Artist Page
+opengraph: {}
+url: 'https://thegrid.ai/blankart/'
