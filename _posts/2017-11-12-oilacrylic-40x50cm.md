@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2018-02-25T17:53:03.347Z'
-dateModified: '2018-02-25T17:53:02.471Z'
+datePublished: '2018-02-25T18:06:57.210Z'
+dateModified: '2018-02-25T18:06:56.778Z'
 via: {}
 description: 'Oil/acrylic, 40x50cm'
 title: ''
