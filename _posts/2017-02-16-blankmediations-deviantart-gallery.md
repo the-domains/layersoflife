@@ -29,8 +29,8 @@ app_links:
     type: android
 isBasedOnUrl: 'http://blankmediation.deviantart.com/gallery/'
 title: blankmediation's DeviantArt gallery
-datePublished: '2018-02-25T17:53:03.308Z'
-dateModified: '2018-02-25T17:53:02.471Z'
+datePublished: '2018-02-25T18:06:57.155Z'
+dateModified: '2018-02-25T18:06:56.778Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-02-16-blankmediations-deviantart-gallery.md
