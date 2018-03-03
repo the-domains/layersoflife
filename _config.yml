@@ -24,38 +24,14 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/83666f3e-cb28-4812-9654-e7995b0cd5f3.jpg">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/83666f3e-cb28-4812-9654-e7995b0cd5f3.jpg
-    metadata:
-      author: []
-      '@context': 'http://schema.org'
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      app_links: []
-      related: []
-      description: ''
-      datePublished: null
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
+content: []
 navigation:
-  - type: external
-    name: 138 The Campaign
+  - name: 138 The Campaign
     url: 'https://138.exposed'
-  - type: external
-    name: 138 Manual
+    type: external
+  - name: 138 Manual
     url: 'https://b318k.tumblr.com'
+    type: external
 layout_spectrum: 0.9224855654631363
 color:
   lightness: 0.8056927678069229
