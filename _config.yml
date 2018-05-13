@@ -33,6 +33,9 @@ navigation:
   - name: Berlin Oberbaumbrücke
     id: 785ec768-20be-41d2-a30d-1154a9b30a90
     type: content
+  - name: 138 system in football
+    url: 'https://thegrid.ai/138sessions/?cache=no'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ade943b-d964-46fa-862d-c65f0f343c30.png
 collections:
