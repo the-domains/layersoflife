@@ -1,20 +1,22 @@
-typography_spectrum: 0.27819522407283953
+layout_spectrum: 0.10983987520633284
+typography_spectrum: 0.6182959805679793
+color:
+  lightness: 0.4259622312010736
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.2900884350398463
+  brandStrength: 0.32627143614658033
+  rhythmicContrast: 0.015794284872175886
+coverPrefs:
+  filter: false
 content_rating:
   adult: false
-color:
-  lightness: 0.2537915609859963
-  brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
-  saturation: 0.38472757075267777
-  brandStrength: 0.7493015086316125
-  rhythmicContrast: 0.020934444026708014
 github: true
 opengraph: {}
-layout_spectrum: 0.021276908433157028
 analytics:
   google: UA-31484906-1
 author:
@@ -76,8 +78,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
 description: BlankArt Collection
 purpose:
   - type: external
